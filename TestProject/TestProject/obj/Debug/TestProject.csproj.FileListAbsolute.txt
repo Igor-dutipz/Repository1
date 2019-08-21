@@ -5,3 +5,10 @@ C:\Users\Игорь\Desktop\Probe\TestProject\TestProject\obj\Debug\TestProject.
 C:\Users\Игорь\Desktop\Probe\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
 C:\Users\Игорь\Desktop\Probe\TestProject\TestProject\obj\Debug\TestProject.exe
 C:\Users\Игорь\Desktop\Probe\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Игорь\Desktop\Probe2\Repository1\TestProject\TestProject\obj\Debug\TestProject.pdb
